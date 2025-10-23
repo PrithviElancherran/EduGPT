@@ -18,7 +18,7 @@ The AI Instructor project aims to revolutionize the way people learn by harnessi
 
 ## Architecture
 
-![Architecture](https://github.com/PrithviElancherran/EduGPT/blob/main/diagram.png)
+![Architecture](diagram.png)
 
 
 The process follows these main steps:
